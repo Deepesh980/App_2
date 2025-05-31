@@ -1,0 +1,21 @@
+{
+  "name": "app_2-backend",
+  "version": "1.0.0",
+  "description": "App_2 [Youtube + Twitter]",
+  "keywords": [
+    "Node",
+    "App_2"
+  ],
+  "license": "ISC",
+  "author": "Deepesh Malik",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
